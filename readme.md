@@ -1,10 +1,3 @@
-DJ **Karan Bhaiya**, tujhe mil rahi hai ek 🔥 **readymade `README.md` file** — GitHub ya resume portfolio ke liye ekdum **classy aur placement-ready**!
-
----
-
-## 📄 `README.md` for **Student Management System (Core Java)**
-
-````markdown
 # 🎓 Student Management System (Core Java Console Project)
 
 A simple console-based Student Management System built using **Core Java**, showcasing object-oriented programming, file handling, collections, and menu-driven design.
